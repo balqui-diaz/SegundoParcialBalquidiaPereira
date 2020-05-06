@@ -1,0 +1,2 @@
+# SegundoParcialBalquidiaPereira
+ Exámen Informática II
